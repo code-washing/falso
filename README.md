@@ -32,15 +32,15 @@ Create massive amounts of fake data in the browser and NodeJS. Tree Shakeable & 
 
 [Sponsorships](https://github.com/sponsors/ngneat) aid in the continued development and maintenance of ngneat libraries. Consider asking your company to sponsor ngneat as its core to their business and application development.
 
-### Gold Sponsors
+## Gold Sponsors
 
 Elevate your support by becoming a Gold Sponsor and have your logo prominently featured on our README in the top 5 repositories.
 
-### Silver Sponsors
+## Silver Sponsors
 
 Boost your backing by becoming a Gold Sponsor and enjoy the spotlight with your logo prominently showcased in the top 3 repositories on our README.
 
-### Bronze Sponsors
+## Bronze Sponsors
 
 <a href="https://houseofangular.io" target="_blank">
   <img src="https://github.com/ngrx/platform/blob/main/projects/ngrx.io/src/assets/images/sponsors/house-of-angular.png" width="50px" height="50px" alt="House of Angular" />
@@ -59,7 +59,7 @@ npm i @ngneat/falso
 yarn add @ngneat/falso
 ```
 
-### Usage
+## Usage
 
 ```ts
 import { randEmail, randFullName } from '@ngneat/falso';
@@ -75,7 +75,7 @@ You can specify the length of elements you want to generate. Below is an example
 const emails = randEmail({ length: 10, maxCharCount: 20 });
 ```
 
-### Setting a Randomness Seed
+## Setting a Randomness Seed
 
 You can set your own seed if you want consistent results:
 
