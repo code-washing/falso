@@ -10,7 +10,7 @@
  */
 
 // @ts-check
- 
+  
 const glob = require('glob');
 
 const items = [
